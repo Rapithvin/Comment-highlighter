@@ -1,0 +1,27 @@
+{
+  "name": "My Custom Theme",
+  "colors": {
+    "editor.foreground": "#000000",
+    "editor.background": "#FFFFFF"
+  },
+  "tokenColors": [
+    {
+      "scope": "comment.info",
+      "settings": {
+        "foreground": "#FFFF00"
+      }
+    },
+    {
+      "scope": "comment.bug",
+      "settings": {
+        "foreground": "#FF0000"
+      }
+    },
+    {
+      "scope": "comment.question",
+      "settings": {
+        "foreground": "#0000FF"
+      }
+    }
+  ]
+}

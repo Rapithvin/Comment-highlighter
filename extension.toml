@@ -1,0 +1,7 @@
+id = "comment-highlighter"
+name = "Comment Highlighter"
+version = "0.0.1"
+schema_version = 1
+authors = ["Danial Hamedi ThisIsDanialHamedi@gmail.com"]
+description = "Comment Highlighter"
+repository = "https://github.com/Rapithvin/Comment-highlighter"

@@ -1,0 +1,20 @@
+{
+  "name": "My Language",
+  "scopeName": "source.my_language",
+  "fileTypes": [],
+  "patterns": [
+    {
+      "name": "comment.info",
+      "match": "//.*@info.*"
+    },
+    {
+      "name": "comment.bug",
+      "match": "//.*@bug.*"
+    },
+    {
+      "name": "comment.question",
+      "match": "//.*@question.*"
+    }
+  ],
+  "repository": {}
+}
